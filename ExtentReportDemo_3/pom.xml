@@ -83,21 +83,21 @@
 				<version>3.0.0-M1</version>
 			</plugin>
 
-<!--  
+
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>3.0.0-M6</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>C:\Eclipse2019\TestMavenDemo2\testng.xml</suiteXmlFile>
+						<suiteXmlFile>C:\Users\h\git\ExtentReportDemo3\ExtentReportDemo_3\testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
--->
+
 
 	<!--## that plugin can be used when we have Multiple XML Files -->
-
+<!--  
 	<plugin>
 		<groupId>org.apache.maven.plugins</groupId>
 		<artifactId>maven-surefire-plugin</artifactId>
@@ -114,7 +114,7 @@
 		</configuration>
 	</plugin>
 			
-			
+-->		
 			
 		</plugins>
 
