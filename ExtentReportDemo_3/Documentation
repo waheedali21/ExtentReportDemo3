@@ -1,0 +1,22 @@
+
+
+1# In this project we will create separate Extent Report class as in last project we put in BASECLASS
+
+2# we will use ExtentReportConfig.XML file for theme setting instead of mentioning in BASECLASS
+  >>ExtentReportConfig.xml file ... need to put at project level
+
+3# in Extent-Report XML file we will put Application login once Extent-Report is generated
+
+
+3# We will use one method in order to pass Date&Time for Each Extent-Report once all Test Case get executed
+
+
+4# We will use Listeners  & Listeners must be add in *TestNG.XML* file 
+
+
+
+##bit difference from *ExtentReportDemo_2* project ...
+## adding *extent-config.xml file* @ project level
+
+
+## also adding application logo in report in (extent-config.xml) file
